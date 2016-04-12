@@ -28,5 +28,6 @@ class CalculadorApp(App):
 if __name__ in ('__main__', '__android__'):
 	CalculadorApp().run()
 
-
-
+#integrantes:
+#YESELKA TYRRELL
+#ALBERTO JUAREZ
